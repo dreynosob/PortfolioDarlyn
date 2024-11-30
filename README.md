@@ -1,5 +1,5 @@
 # Sass Portfolio Tutorial
-This is part of my Sass tutorial on YouTube.
+This is part of my CS50 Final Project.
 
 Tutorial Link : https://youtu.be/_a5j7KoflTs
 
